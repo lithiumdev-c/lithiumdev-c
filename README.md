@@ -26,10 +26,6 @@ I'm a software developer and enthusiast in Computer science, also I'm a student 
 
 <br>
 
-<p align="center">
- <img width="600" src="assets/mr-robot-excited.gif" alt="We are mastermind"/>
-</p>
-
 <h3>I am literally Mr. Robot</h3>
 
 <br>

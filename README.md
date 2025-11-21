@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center"> Hello Friend🤖🤚 I am lithium </h1>
 
-<!--
-**lithiumdev-c/lithiumdev-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-Here are some ideas to get you started:
+## About me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@k3rnelpan1x)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@li3dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer and enthusiast in Computer science, also I'm a student from Kazakhstan
+
+
+<details align="left">
+  <summary><h2><b>📚 My stack</b></h2></summary>
+  <p>
+    <h3>Langs</h3>
+    <img src="https://skillicons.dev/icons?i=cpp,py,flutter,javascript,typescript,html,css,postgres,sqlite&perline=7" />
+    <h3>Frameworks / Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,npm,kali,react,flask,fastapi,docker,git,bootstrap&perline=7" />
+    <h3>Software</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,figma,postman&perline=7" />
+    <br>
+  </p>
+</details>
+

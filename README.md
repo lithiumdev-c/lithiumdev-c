@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Friend🤖🤚 I am lithium </h1>
+<h1 align="center"> Hello 🤚 I am lithium </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -25,8 +25,6 @@ I'm a software developer and enthusiast in Computer science, also I'm a student 
 </details>
 
 <br>
-
-<h3>I am literally Mr. Robot</h3>
 
 <br>
 

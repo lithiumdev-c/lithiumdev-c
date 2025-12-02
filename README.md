@@ -14,7 +14,7 @@ I'm a software developer and enthusiast in Computer science, also I'm a student 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
-    <h3>Langs</h3>
+    <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=cpp,py,flutter,javascript,typescript,html,css,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=linux,npm,kali,react,flask,fastapi,docker,git,bootstrap&perline=7" />

@@ -31,3 +31,9 @@ I'm a software developer and enthusiast in Computer science, also I'm a student 
   <img width="600" src="assets/adderal.gif" alt="Kernel panic on adderal"/>
 </p>
 
+### Leetcode
+<div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/lithium_avi?theme=auto&font=baloo&extension=null)
+
+</div>

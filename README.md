@@ -34,7 +34,6 @@ I'm a software developer and enthusiast in Computer science, also I'm a student 
 ### Leetcode
 <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/lithium_avi?theme=auto&font=baloo&extension=null)
   ![Codewars](https://github.r2v.ch/codewars?user=lithiumdev-c)
 
 </div>

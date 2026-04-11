@@ -31,9 +31,9 @@ I'm a software developer and enthusiast in Computer science, also I'm a student 
 <div align="center">
 
   
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=tourist&v2&theme=default)](https://codeforces.com/profile/lithium_3)<br>
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=tourist&v2&theme=dark)](https://codeforces.com/profile/lithium_3)
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=tourist&v2&theme=default)](https://codeforces.com/profile/lithium_3)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=lithium_3&v2&theme=default)](https://codeforces.com/profile/lithium_3)<br>
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=lithium_3&v2&theme=dark)](https://codeforces.com/profile/lithium_3)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=lithium_3&v2&theme=default)](https://codeforces.com/profile/lithium_3)
 
 
 </div>

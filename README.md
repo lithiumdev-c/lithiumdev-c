@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 🤚 I am lithium </h1>
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+  <img width="600" src="assets/adderal.gif" alt="Kernel panic on adderal"/>
 </p>
 
 ## About me
@@ -27,13 +27,9 @@ I'm a software developer and enthusiast in Computer science, also I'm a student 
 
 <br>
 
-<p align="center">
-  <img width="600" src="assets/adderal.gif" alt="Kernel panic on adderal"/>
-</p>
-
-### Leetcode
+### My Codeforces
 <div align="center">
 
-  ![Codewars](https://github.r2v.ch/codewars?user=lithiumdev-c)
+  ![Codeforces](https://github.r2v.ch/codeforces?user=lithium_3)
 
 </div>

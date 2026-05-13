@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 🤚 I am lithium </h1>
+
 
 <p align="center">
   <img width="600" src="assets/adderal.gif" alt="Kernel panic on adderal"/>

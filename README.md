@@ -9,7 +9,6 @@
 I'm a software developer.
 
 
-<details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Languages</h3>
@@ -20,7 +19,6 @@ I'm a software developer.
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,figma,postman,arduino&perline=7" />
     <br>
   </p>
-</details>
 
 <br>
 

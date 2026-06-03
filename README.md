@@ -23,14 +23,3 @@ I'm a software developer.
 <br>
 
 <br>
-
-### My Codeforces
-<div align="center">
-
-  
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=lithium_3&v2&theme=default)](https://codeforces.com/profile/lithium_3)<br>
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=lithium_3&v2&theme=dark)](https://codeforces.com/profile/lithium_3)
-[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=lithium_3&v2&theme=default)](https://codeforces.com/profile/lithium_3)
-
-
-</div>

@@ -14,7 +14,7 @@
 
 ### 👤 About Me
 - 💻 **Software Developer & Tech Enthusiast**
-- 🛡️ Passionate about low-level programming, IoT, hardware hacking, and automation.
+- 🛡️ Passionate about low-level programming, IoT, and automation.
 - ⚙️ Operating System: **Linux (Debian-based)** 🐧
 
 ---

@@ -53,12 +53,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k3rnelpan1x&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/github/license/k3rnelpan1x/k3rnelpan1x?color=blue" alt="License" />
-</p>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm k3rnelpan1x 👋</h1>
+<h1 align="center">Hi there, I'm l1th1um 👋</h1>
 
 <p align="center">
   <img width="600" src="assets/adderal.gif" alt="Kernel panic on adderal"/>

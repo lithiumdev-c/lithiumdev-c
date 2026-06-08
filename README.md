@@ -41,7 +41,7 @@
 <details open>
   <summary><b>🧰 Tools & DevOps</b></summary>
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,npm&perline=6" alt="Tools & DevOps" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,npm, vite&perline=6" alt="Tools & DevOps" />
 </details>
 
 <br/>

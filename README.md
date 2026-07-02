@@ -21,8 +21,8 @@
 ---
 
 ### 🎖️ Achievments
-- 🎨🥇 WRO Future Innovators Junior 2026 Regional Atyrau - First place
-- 🎨🥈 WRO Future Innovators Junior 2026 Almaty - Second place
+- 🥇 WRO Future Innovators Junior 2026 Regional Atyrau - First place
+- 🥈 WRO Future Innovators Junior 2026 Almaty - Second place
 - 🌱🥇 NIS Project Fest Computer Science 2025 - First place
 - 🌱🥇 Computer Science junior olympiad School stage - First place
 - 🌱📜 Computer Science junior olympiad Network stage - Certificate

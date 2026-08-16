@@ -15,7 +15,7 @@
 ### 👤 About Me
 - 💻 **Software Developer & Tech Enthusiast**
 - 🛡️ Passionate about low-level and high-level programming, IoT, and automation.
-- ⚙️ Operating System: **Linux (CachyOS)** | **Windows** 🐧
+- ⚙️ Operating System: **Linux (Void)** | **Windows** 🐧
 - 🌱 Education: **GPA-4.8**
 
 ---

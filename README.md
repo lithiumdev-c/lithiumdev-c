@@ -56,7 +56,7 @@
 <details open>
   <summary><b>🔌 Hardware & Software</b></summary>
   <br/>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,vscode,pycharm,figma,postman&perline=6" alt="Hardware & Software" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,vscode,pycharm,figma,postman,clion&perline=6" alt="Hardware & Software" />
 </details>
 
 ---
